@@ -1,5 +1,4 @@
-# module6_homework
-Homework on course
+AJAX Tasks
 
 Описание задач и требования к ним:
 
